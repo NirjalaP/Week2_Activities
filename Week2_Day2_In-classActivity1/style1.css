@@ -1,0 +1,8 @@
+a:hover{
+    color: blue;
+}
+
+input:focus{
+    border: 2px solid green ;
+    background-color: aliceblue;
+}

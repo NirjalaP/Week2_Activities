@@ -1,0 +1,12 @@
+p::first-letter{
+    font-size:2em;
+    color: blue;
+    font-weight: bold;
+}
+
+h2::after{
+    content: "- Explore more";
+    color: gray;
+    font-size: 0.8em;
+
+}
