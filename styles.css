@@ -93,6 +93,7 @@ section #partners{
     padding: 2em 0 2em 0;
     margin: 0 auto;
     text-align: center;
+    margin-top: 80px;
 }
 section #partners .partner{
     display: inline-block;
@@ -213,7 +214,7 @@ form {
 }
 
 fieldset {
-    border: 1px solid #ddd;
+    border: 1px solid #93d034;
     padding: 20px;
     border-radius: 4px;
 }
@@ -238,7 +239,7 @@ input[type="email"],
 input[type="tel"],
 select,
 textarea {
-    width: 100%;
+    width: 50%;
     padding: 8px;
     border: 1px solid #ddd;
     border-radius: 4px;
